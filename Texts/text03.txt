@@ -1,1 +1,1 @@
-Restore demo 3
+This is text 3, updated remotely

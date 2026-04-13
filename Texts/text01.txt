@@ -1,1 +1,1 @@
-Ammending commits demo 1
+Checkout 01, does it work after commit

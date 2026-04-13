@@ -1,1 +1,1 @@
-Changes for pull and fetch
+Ammending commits demo 1

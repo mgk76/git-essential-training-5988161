@@ -1,1 +1,1 @@
-Checkout 01, does it work after commit
+Git restore demo 1
